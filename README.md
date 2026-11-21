@@ -82,14 +82,7 @@ feature selection and preparation for later modeling.
 
 ### Key Findings
 
-Run the notebook in Google Colab or Jupyter Notebook to generate the
-actual counts, statistics, correlations, and visualizations. The final
-results are displayed in the notebook's output cells. The notebook also
-reports the number of missing values and duplicate records remaining
-after cleaning.
-
-Do not report specific statistical findings until the notebook has been
-executed and its outputs reviewed.
+In the jupyter notebook.
 
 ### Challenges and How They Were Addressed
 
